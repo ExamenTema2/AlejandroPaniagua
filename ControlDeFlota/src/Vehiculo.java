@@ -1,3 +1,4 @@
+//Autor:Alejandro Paniagua Jurado
 public class Vehiculo {
 	private String matricula;
 	private String fabricante;
