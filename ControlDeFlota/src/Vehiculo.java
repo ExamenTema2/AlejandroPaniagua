@@ -1,4 +1,5 @@
 //Autor:Alejandro Paniagua Jurado
+//Descripcion: vehiculo perteneciente a una flota de vehiculos
 public class Vehiculo {
 	private String matricula;
 	private String fabricante;
